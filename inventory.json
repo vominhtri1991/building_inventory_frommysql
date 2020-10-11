@@ -1,0 +1,1 @@
+{"_meta": {"hostvars": {}}, "all": {"children": ["webserver", "dbserver", "ftpserver"]}, "webserver": {"hosts": ["192.168.9.3", "192.168.9.4"]}, "dbserver": {"hosts": ["192.168.9.5"]}, "ftpserver": {"hosts": ["192.168.9.6"]}}
